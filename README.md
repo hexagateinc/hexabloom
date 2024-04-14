@@ -1,4 +1,4 @@
-§## Hexabloom
+# Hexabloom
 
 Hexabloom is a lightweight cross-language package to check if an address is within a bloom filter.
 Addresses are lowercased strings, like one in the following example:
@@ -19,4 +19,3 @@ func main() {
 }
 ```
 
-`$ go run main.go`
